@@ -37,7 +37,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "5.0-php72-dev"
+            "dev-master": "5.0.x-dev"
         }
     }
 }
