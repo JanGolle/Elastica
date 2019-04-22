@@ -1,6 +1,6 @@
 {
-    "name": "ruflin/elastica",
-    "description": "Elasticsearch Client",
+    "name": "jangolle/elastica",
+    "description": "Fork of ruflin/elastica for PHP 7.2 with no elasticsearch client dependency maintain (5.0.x branch)",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
     "type": "library",
